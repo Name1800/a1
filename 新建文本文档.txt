@@ -1,0 +1,59 @@
+学前单词：
+
+document
+
+display
+
+method
+
+version
+
+orient
+
+parameter
+
+
+
+定义类的方法
+
+	类的方法必须包
+
+		方法的名称
+
+		方法的返回值类型
+
+		方法的主体
+
+语法
+
+	public 返回值类型	方法名(){
+
+		//主体
+
+	}
+
+语法：
+
+	return 表达式;
+
+方法调用：
+
+	语法：
+
+		对象名.方法名();
+
+JAVADoc注释
+
+	常见的javadoc标签
+
+@author	作者名
+
+@parameter	参数及意义
+
+@return	返回值
+
+@version	版本标识
+
+@since	最早使用JDK版本
+
+@throws	异常类及抛出条件
